@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning
 ## Continuous Control with Deep Deterministic Policy Gradient (DDPG)
-Deep Reinforcement Learning Nanodegree (Project 1 - Navigation)
+Deep Reinforcement Learning Nanodegree (Project 1 - Continuous Control)
 
 ## The Environment
 ![Reacher Environment](reacher.gif)
