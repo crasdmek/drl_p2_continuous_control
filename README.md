@@ -28,9 +28,22 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Dependencies
 
-1. NUMPY
-2. TORCH
+1. Unity ML-Agents https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
+
+2. NumPy http://www.numpy.org/
+
+3. Open AI Gym https://github.com/openai/gym
+
+4. PyTorch https://pytorch.org/get-started/locally/
 
 
 ## Instructions
-The README describes how to run the code in the repository, to train the agent. For additional resources on creating READMEs or using Markdown, see here and here.
+RUN each Jupyter Code Cell in Order within Continuous_Control.ipynb
+1. Start the Environment
+2. Examine the State and Action Spaces
+3. You can Skip this part
+4. Train the Agent with DDPG (Deep Deterministic Policy Gradient)
+5. Close the Environment
+
+
+
