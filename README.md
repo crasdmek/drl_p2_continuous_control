@@ -45,5 +45,6 @@ RUN each Jupyter Code Cell in Order within Continuous_Control.ipynb
 4. Train the Agent with DDPG (Deep Deterministic Policy Gradient)
 5. Close the Environment
 
+## Congratulations, You now have a trained Continuous Control Agent!
 
 
