@@ -1,6 +1,9 @@
 # drl_p1_navigation
 Deep Reinforcement Learning Nanodegree (Project 1 - Navigation)
 
+## The Environment
+![Reacher Environment](reacher.gif)
+
 ## Project Details
 The README describes the the project environment details (i.e., the state and action spaces, and when the environment is considered solved).
 
